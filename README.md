@@ -1,4 +1,5 @@
 #huongdan
+
 cd ~/ros2_ws
 source /opt/ros/humble/setup.bash
 
